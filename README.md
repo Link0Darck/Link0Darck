@@ -5,7 +5,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/28543376?v=4" alt="Link_Darck" width="275" /> 
 
 ```csharp
-thehairy@github
+Link0Darck@github
 -------------------------
 OS: Raspbian GNU/Linux 11 (bullseye) armv
 Shell: bash 5.1.4
