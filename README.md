@@ -17,7 +17,7 @@ Languages: JavaScript, TypeScript, HTML, PHP, Batchfile, Shell, ect...
 Learning: Node.js
 Hobbies: Manages server rack
 Commits: 43
-Stars: 0
+Stars: 10
 Discord: 𝔏𝔦𝔫𝑘 𝔇𝔞𝔯𝔠𝑘#0001
 ```
 ![Commit Snake Game](https://raw.githubusercontent.com/Link0Darck/Link_Darck/main/img/github-contribution-grid-snake.svg)
