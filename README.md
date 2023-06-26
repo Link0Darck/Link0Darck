@@ -13,7 +13,7 @@ Birth: 24 years ago
 Pronouns: He/Him
 Location: Tokyo, Japan
 Frameworks: None
-Languages: JavaScript, TypeScript, HTML, PHP, Batchfile, Shell, ect...
+Languages: JavaScript, TypeScript, HTML, PHP, Batchfile, Shell, ...
 Learning: Discord.js
 Hobbies: Manages server rack
 Commits: 43
